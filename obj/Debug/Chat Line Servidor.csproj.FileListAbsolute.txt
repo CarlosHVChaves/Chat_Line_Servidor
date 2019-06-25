@@ -1,0 +1,10 @@
+C:\Users\Henrique Vieira\source\repos\Chat Line Servidor\bin\Debug\Chat Line Servidor.exe.config
+C:\Users\Henrique Vieira\source\repos\Chat Line Servidor\bin\Debug\Chat Line Servidor.exe
+C:\Users\Henrique Vieira\source\repos\Chat Line Servidor\bin\Debug\Chat Line Servidor.pdb
+C:\Users\Henrique Vieira\source\repos\Chat Line Servidor\obj\Debug\Chat_Line.FormChatServidor.resources
+C:\Users\Henrique Vieira\source\repos\Chat Line Servidor\obj\Debug\Chat_Line_Servidor.Properties.Resources.resources
+C:\Users\Henrique Vieira\source\repos\Chat Line Servidor\obj\Debug\Chat Line Servidor.csproj.GenerateResource.cache
+C:\Users\Henrique Vieira\source\repos\Chat Line Servidor\obj\Debug\Chat Line Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Vieira\source\repos\Chat Line Servidor\obj\Debug\Chat Line Servidor.exe
+C:\Users\Henrique Vieira\source\repos\Chat Line Servidor\obj\Debug\Chat Line Servidor.pdb
+C:\Users\Henrique Vieira\source\repos\Chat Line Servidor\obj\Debug\Chat Line Servidor.csprojAssemblyReference.cache
